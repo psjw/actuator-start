@@ -15,6 +15,7 @@ management:
       show-components: always
   #   show-details: always
 
+
   endpoints:
     web:
       exposure:
@@ -28,3 +29,7 @@ logging:
   level:
     hello.controller: debug
 
+server:
+  tomcat:
+    mbeanregistry:
+      enabled: true
