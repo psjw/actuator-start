@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09cde5ee-a35b-420c-b702-1a85e6ece21b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/order/v4/OrderConfigV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/order/v4/OrderServiceV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/order/gague/StockConfigV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/order/gague/StockConfigV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hello/ActuatorApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hello/ActuatorApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/META-INF/build-info.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/META-INF/build-info.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/git.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/git.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ActuatorApplication.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hello/ActuatorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/ActuatorApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +95,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/hello/order/v2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hello.order.gague" />
       <recent name="hello.order.v4" />
       <recent name="hello.order.v3" />
       <recent name="hello.order.v2" />
@@ -197,7 +210,7 @@
       <workItem from="1743989016125" duration="4686000" />
       <workItem from="1744084691733" duration="5576000" />
       <workItem from="1744346197191" duration="1866000" />
-      <workItem from="1745797724945" duration="6741000" />
+      <workItem from="1745797724945" duration="7571000" />
     </task>
     <servers />
   </component>
