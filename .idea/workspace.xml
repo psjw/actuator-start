@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09cde5ee-a35b-420c-b702-1a85e6ece21b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/actuator-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/order/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/order/v0/OrderConfigV0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/order/v0/OrderServiceV0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/order/v1/OrderConfigV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/order/v1/OrderServiceV1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hello/ActuatorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/ActuatorApplication.java" afterDir="false" />
     </list>
@@ -82,6 +77,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hello.order.v1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="actuator-start" />
@@ -190,7 +190,7 @@
       <workItem from="1743989016125" duration="4686000" />
       <workItem from="1744084691733" duration="5576000" />
       <workItem from="1744346197191" duration="1866000" />
-      <workItem from="1745797724945" duration="401000" />
+      <workItem from="1745797724945" duration="1500000" />
     </task>
     <servers />
   </component>
